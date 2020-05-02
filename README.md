@@ -42,14 +42,18 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. Describe the four rules of the 'this' keyword.
     
-    **1.Window binding: when no other rules apply, “this” will reference the global window.*
-    **2.Implicit binding: when functions are evoked we look at the left of the dot to understand what “this” is referring to.*
-    **3.Explicit Binding: calls a function explicitly using methods such as .call() and .apply().*
-    **4.New Binding: using the new keyword constructs a new object and “this” points to it.*
+**1.Window binding: when no other rules apply, “this” will reference the global window.*
+
+**2.Implicit binding: when functions are evoked we look at the left of the dot to understand what “this” is referring to.*
+
+**3.Explicit Binding: calls a function explicitly using methods such as .call() and .apply().*
+
+**4.New Binding: using the new keyword constructs a new object and “this” points to it.*
+
 
 5. Why do we need super() in an extended class?
 
-    **Super() allows the extended class to inherit the methods of the parent class.*
+**Super() allows the extended class to inherit the methods of the parent class.*
 
 ## Project Set up
 
