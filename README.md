@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is closure?
 
-**A closure is a feature in JavaScript that gives us the ability to put functions together and allows us to identify code written elsewhere that we can be use later.*
+**A closure is a feature in JavaScript that gives us the ability to put functions together and allows us to identify code written elsewhere that we can use later.*
 
 4. Describe the four rules of the 'this' keyword.
     
