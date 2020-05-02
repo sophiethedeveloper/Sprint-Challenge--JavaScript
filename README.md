@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is closure?
 
-**A closure is a feature in javascript that gives us the ability to put functions together and allows us to identify code written elsewhere that we can be use later.*
+**A closure is a feature in JavaScript that gives us the ability to put functions together and allows us to identify code written elsewhere that we can be use later.*
 
 4. Describe the four rules of the 'this' keyword.
     
@@ -50,7 +50,7 @@ Edit this document to include your answers after each question. Make sure to lea
 5. Why do we need super() in an extended class?
 
     **Super() allows the extended class to inherit the methods of the parent class.*
-    
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:
