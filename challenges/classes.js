@@ -47,6 +47,7 @@ class CuboidMakerClass {
     })
 
 // Test your volume and surfaceArea methods by uncommenting the logs below:
+console.log(`This the information for the Classes`)
 console.log(cuboidTwo.volume()); // 100
 console.log(cuboidTwo.surfaceArea()); // 130
 
@@ -71,7 +72,8 @@ class Cube extends CuboidMakerClass{
     height: 3
   });
 
-  //Test for the Cube subaclass
+  //Test for the Cube subclass
+    console.log(`This is the Stretch Challenge for Classes`)
     console.log(newCube.volume()); //27
     console.log(newCube.surfaceArea());// 54
   
